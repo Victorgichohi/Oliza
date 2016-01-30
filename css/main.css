@@ -1,3 +1,7 @@
+.row{
+  margin: 0;
+  padding: 0;
+}
 /*nav bar styling*/
 .nav-wrapper{
   background-color: #8D26FF;
@@ -11,6 +15,28 @@
   font-weight: normal;
   font-family: 'Open Sans', sans-serif;
 }
+.dont_miss{
+  text-align: center;
+  color: white;
+  background-color: red;
+}
+.dont_miss h5{
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+}
+.pre_presence{
+  font-weight: lighter;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.presence_icons p{
+    font-family: 'Open Sans', sans-serif;
+}
+.presence_icons h5{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    color: red;
+}
 /*body icons*/
 
 /*contact form*/
@@ -18,15 +44,33 @@
   height: 100%;
   width:100%;
 }
+.submission_form{
+  border: solid red 1px;
+  background-color: #BAF2EA;
+}
+.select_category{
+  font-size: 15px;
+  color: blue;
+}
+.dont_miss_out{
+  margin: 0;
+  width: 100%;
+  height: 15vh;
+  background-color: red;
+}
+.btn {
+  background-color: red;
+}
 /*.check_box_style{
   width:40px;
   height:30px;
   background-color: #ABDFE6;
 }*/
 /*footer*/
-.page-footer{
- color:#8D26FF!important;
+.footer{
+ background-color:#8D26FF;
 }
 .footer_links li{
   display:inline;
+  color: red;
 }
