@@ -12,3 +12,10 @@
   font-family: 'Open Sans', sans-serif;
 }
 /*body icons*/
+/*footer*/
+.page-footer{
+ color:#8D26FF!important;
+}
+.footer_links li{
+  display:inline;
+}
