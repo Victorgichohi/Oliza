@@ -12,6 +12,17 @@
   font-family: 'Open Sans', sans-serif;
 }
 /*body icons*/
+
+/*contact form*/
+.contact_cards_icons img{
+  height: 100%;
+  width:100%;
+}
+/*.check_box_style{
+  width:40px;
+  height:30px;
+  background-color: #ABDFE6;
+}*/
 /*footer*/
 .page-footer{
  color:#8D26FF!important;
